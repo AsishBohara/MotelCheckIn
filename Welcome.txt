@@ -1,0 +1,37 @@
+//Guest Information
+folioNumber
+guestName
+address
+phoneNumber
+
+//Identification Information
+idType
+idNumber
+
+//Vehicle Information
+Vehicle
+model
+color
+plateNumber
+
+Room Information
+roomCategory
+roomType
+isRoomAvailable
+dateIn
+dateOut
+numberOfDays
+numberOfAdults
+numberOfChildren
+
+//Rate and Mode of Payment
+ratePerDay
+ratePerHour
+totalCharges
+otherCharges
+discount
+total
+cardInfo
+
+
+
